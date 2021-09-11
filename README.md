@@ -1,1 +1,2 @@
-# Microservices-Applications
+# Training_Demos
+Demo applications
